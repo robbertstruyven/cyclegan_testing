@@ -1,7 +1,9 @@
 # Cyclegan Testing
 CycleGAN In Keras and Tensorflow 2.0
 
-- **Based on "Transforming the World Into Paintings with CycleGAN":** [article 1](https://medium.com/analytics-vidhya/the-beauty-of-cyclegan-c51c153493b8) and [article2](https://medium.com/analytics-vidhya/transforming-the-world-into-paintings-with-cyclegan-6748c0b85632).
+- **Based on:**
+   - "TensorFlow Core - Tutorials - CycleGAN": [link](https://www.tensorflow.org/tutorials/generative/cyclegan)
+   - "Transforming the World Into Paintings with CycleGAN": [article 1](https://medium.com/analytics-vidhya/the-beauty-of-cyclegan-c51c153493b8) and [article2](https://medium.com/analytics-vidhya/transforming-the-world-into-paintings-with-cyclegan-6748c0b85632).
 - [**Original CycleGAN paper**](https://arxiv.org/pdf/1703.10593.pdf)
 
 **Cyclegan implemented:** [cyclegan.ipynb](https://github.com/robbertstruyven/cyclegan_testing/blob/master/cyclegan.ipynb)
