@@ -1,9 +1,12 @@
 # Cyclegan Testing
 
 Based on **Transforming the World Into Paintings with CycleGAN** <br>
-Implementing a CycleGAN In Keras and Tensorflow 2.0: [link](https://medium.com/analytics-vidhya/transforming-the-world-into-paintings-with-cyclegan-6748c0b85632)
+Implementing a CycleGAN In Keras and Tensorflow 2.0: 
+- [article 1 ](https://medium.com/analytics-vidhya/the-beauty-of-cyclegan-c51c153493b8)
+- [article2](https://medium.com/analytics-vidhya/transforming-the-world-into-paintings-with-cyclegan-6748c0b85632)
+- [Original CycleGAN paper](https://arxiv.org/pdf/1703.10593.pdf)
 
-- **Cyclegan:** [cyclegan.ipynb](https://github.com/robbertstruyven/cyclegan_testing/blob/master/cyclegan.ipynb)
+**Cyclegan implemented:** [cyclegan.ipynb](https://github.com/robbertstruyven/cyclegan_testing/blob/master/cyclegan.ipynb)
 
 To improve: 
 - **Imagenet Classification:** [classification.ipynb](https://github.com/robbertstruyven/cyclegan_testing/blob/master/classification_resnet.ipynb)
