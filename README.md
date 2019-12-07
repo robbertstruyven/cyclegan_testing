@@ -6,5 +6,13 @@ Implementing a CycleGAN In Keras and Tensorflow 2.0: [link](https://medium.com/a
 - **Cyclegan:** [cyclegan.ipynb](https://github.com/robbertstruyven/cyclegan_testing/blob/master/cyclegan.ipynb)
 
 To improve: 
-- **Classification:** [??.ipynb](https://github.com/robbertstruyven/cyclegan_testing/blob/master/classification_resnet.ipynb)
+- **Imagenet Classification:** [classification.ipynb](https://github.com/robbertstruyven/cyclegan_testing/blob/master/classification_resnet.ipynb)
+  - Apply Imagenet Trained Model on Monet Paintings = will fail
+  - Apply Imagenet Trained Model on Monet Paintings transformed to real life domain = succes?
+- **MNIST Classification:** [??.ipynb](...)
+  - Apply MNIST Trained Model on SVHN* Images = will fail
+  - Apply MNIST Trained Model on SVHN* Images transformed to MNIST domain = succes?
 - **Segmentation:** [??.ipynb](...)
+  - ..
+  
+**NB:** SVHN* = Street View House Numbers Dataset
